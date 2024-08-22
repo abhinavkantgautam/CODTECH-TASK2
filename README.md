@@ -5,7 +5,7 @@ Company:- CODTECH IT SOLUTIONS PVT.LTD
 ID:- CT4CSEH5993
 Domains:- VULNERABILITY SCANNING TOOL
 Duration:- August 1st to September 1st 2024
-Mentor:- Neela Santhosh Kumar 
+Mentor:- Muzammil ahmed
 
 OVERVIEW OF PROJECT
 
