@@ -3,7 +3,8 @@
 Name:- Kumar Abhinavkant Gautam
 Company:- CODTECH IT SOLUTIONS PVT.LTD
 ID:- CT4CSEH5993
-Domains:- VULNERABILITY SCANNING TOOL
+Domains:- Cyber Security & Ethical Hacking
+TASK2:- VULNERABILITY SCANNING TOOL
 Duration:- August 1st to September 1st 2024
 Mentor:- Muzammil ahmed
 
